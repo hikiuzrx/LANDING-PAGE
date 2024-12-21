@@ -128,7 +128,8 @@ export default function Home() {
           <div className="container mx-auto px-4 text-center">
             <h2 className="text-3xl font-bold mb-4">Ready to Explore Boumerdas?</h2>
             <p className="text-xl mb-8 max-w-2xl mx-auto">
-              Download our app now and unlock the best of Boumerdas. Whether you're a local or a tourist, 
+              <p>that's not all ! </p>
+              Download our app now and unlock the best of Boumerdas . Whether you're a local or a tourist, 
               our app will enhance your experience and help you discover the magic of this beautiful Algerian city.
             </p>
           </div>
