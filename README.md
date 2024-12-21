@@ -1,5 +1,5 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+# Landing Page
+this is landing page using next js and typescript + tailwindcss for BSC hackathon 
 ## Getting Started
 
 First, run the development server:
